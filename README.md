@@ -1,0 +1,1 @@
+# The-comparison-and-analysis-of-Skip-gram-and-CBOW-in-creating-financial-sentimental-dictionary
